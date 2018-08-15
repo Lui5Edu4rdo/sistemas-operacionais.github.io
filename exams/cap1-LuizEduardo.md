@@ -1,3 +1,5 @@
+##Aluno: Luiz Eduardo de Souza Dias
+
 ## Questão 1
 **Abstrair e gerenciar os recursos do computador**
  ## Questão 2
